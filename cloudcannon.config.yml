@@ -11,6 +11,7 @@ collections_config:
     disable_file_actions: false
 timezone: Etc/UTC
 
+source:
 _inputs:
   src: 
     type: image
