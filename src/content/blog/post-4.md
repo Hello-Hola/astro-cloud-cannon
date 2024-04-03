@@ -1,5 +1,5 @@
 ---
-title: What is Corruption
+title: What is Corruption and causes of corruption
 date: 2022-12-09T00:00:00Z
 author: Anna Dixon
 image:
