@@ -13,4 +13,4 @@ timezone: Etc/UTC
 
 _inputs:
   src: 
-    type: images
+    type: image
