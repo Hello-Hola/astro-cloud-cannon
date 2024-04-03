@@ -9,7 +9,7 @@ description: |
   So this is the thing so-called description. 
   Which is quite good for people of our caliber
 draft: false
-category: Curroption
+category: CSS
 ---
 ## What is Corruption ?
 
