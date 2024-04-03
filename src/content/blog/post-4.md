@@ -1,7 +1,7 @@
 ---
 title: What is Corruption
 date: 2022-12-09T00:00:00Z
-author:
+author: Anna Dixon
 image:
   src: /images/post-4.jpg
   alt: A picture of a coder
