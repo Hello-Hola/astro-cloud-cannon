@@ -1,4 +1,4 @@
-paths:
+fpaths:
   uploads: public/images
   static: public
 collections_config:
