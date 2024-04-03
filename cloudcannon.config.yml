@@ -1,0 +1,11 @@
+
+
+collections_config:
+  posts: 
+    path: src/content/blog 
+
+paths:
+  static: public
+  uploads: public/images
+  
+timezone: Etc/UTC
