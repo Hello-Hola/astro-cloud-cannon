@@ -1,22 +1,21 @@
 ---
-title: Why is this CSS so weird?
+title: What is Corruption
 date: 2022-12-09T00:00:00Z
-author: Anna Dixon
+author: Asif Suhail Khan
 image:
   src: /images/post-4.jpg
   alt: A picture of a coder
-description: >-
-  The global css file for this site is a bit different than I’d write things
-  normally, but I’m trying to keep you from having to write a bunch of random
-  classes.
+description: |
+  So this is the thing so-called description. 
+  Which is quite good for people of our caliber
 draft: false
-category: CSS
+category: Curroption
 ---
-Nisi duis ex aliqua eu officia eiusmod duis magna pariatur. Irure laborum qui aliqua nulla esse cillum laborum aliquip nulla elit. Id id Lorem duis irure cillum culpa. Nulla sint et aliqua velit do. Nulla sit sit proident consectetur enim ullamco aliqua in reprehenderit ullamco officia.
+## What is Corruption ?
 
-## What is CSS?
+Corruption arises when people started to giving more important to money but the main problemis that they have to understood this type of things are not good for ant they are usel**ss than any one**
 
-Ad ipsum velit sint enim exercitation mollit consequat elit mollit qui commodo aute. Laboris culpa voluptate aliquip incididunt duis. Cupidatat aliquip et sunt aute fugiat cupidatat irure voluptate. Occaecat officia et sunt.
+&nbsp;
 
 ![This is called curroption](/images/corruption.jpg "Curroption is the cause of people's suffering")
 
@@ -24,7 +23,7 @@ Officia tempor voluptate enim consequat cillum aute fugiat cupidatat incididunt 
 
 ## You know?
 
-Ipsum adipisicing exercitation dolor pariatur labore qui. Culpa cupidatat ea elit eiusmod tempor ea qui dolor Lorem laborum adipisicing. Ad ea laboris qui cupidatat deserunt culpa.
+Ipsum adipisicing exercitation dolor pariatur labore qui. Culpa cupidatat ea elit eiusmod tempor ea qui dolor Lorem larum adipisicing. Ad ea laboris qui cupidatat deserunt culpa.
 
 * Nulla ex velit adipisicing
 * proident fugiat deserunt sunt
